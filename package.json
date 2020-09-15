@@ -1,0 +1,16 @@
+{
+  "name": "my-pack",
+  "version": "1.0.0",
+  "description": "./cli.js",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.14.8",
+    "vue": "^3.0.0-rc.10"
+  }
+}
